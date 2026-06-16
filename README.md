@@ -3,7 +3,8 @@
 This is my 2nd-semester Object-Oriented Programming (OOP) project built using Java and MySQL Database.
 
 ## 🎥 Project Video Demo
-I have recorded a complete 14-minute execution and walk-through of this project. You can watch it here:
+I have recorded a complete 14-minute execution and walk-through of this project. 
+You can watch it here:
 ▶️ [Watch Project Demo Video](YAHAN_APNA_GOOGLE_DRIVE_YA_YOUTUBE_LINK_PASTE_KAREN)
 
 ## 📁 Files Included
