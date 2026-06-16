@@ -5,7 +5,7 @@ This is my 2nd-semester Object-Oriented Programming (OOP) project built using Ja
 ## 🎥 Project Video Demo
 I have recorded a complete 14-minute execution and walk-through of this project. 
 You can watch it here:
-▶️ [Watch Project Demo Video]([YAHAN_APNA_GOOGLE_DRIVE_YA_YOUTUBE_LINK_PASTE_KAREN](https://drive.google.com/file/d/1knKrDE5532mFyfdiTWX3Bu6dAO9IM5Vz/view?usp=drive_link))
+▶️ [Watch Project Demo Video] https://drive.google.com/file/d/1knKrDE5532mFyfdiTWX3Bu6dAO9IM5Vz/view?usp=drive_link
 
 ## 📁 Files Included
 * `project.java`: The main source code containing the logic and OOP concepts.
